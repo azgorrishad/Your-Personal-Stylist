@@ -1,0 +1,5 @@
+{
+  "name": "Your Personal Stylist",
+  "description": "Upload a closeup and a full body photo to get personalized style recommendations for outfits, sunglasses, accessories, and shoes based on your face and body shape, powered by Gemini.",
+  "requestFramePermissions": []
+}
